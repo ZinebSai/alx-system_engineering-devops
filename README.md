@@ -1,1 +1,1 @@
-# this project is about shell basics
+# this repos is about shell basics
